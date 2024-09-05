@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning SQL, Power BI, Python(numpy, Pandas), Web Scrpting, Working with Csv File Etc 
 - 💞️ I’m looking to collaborate on Project
 - 📫 How to reach me : linkdin @Ritik kumar sah
-- 😄 Pronouns: ...
-- ⚡ Fun fact: troll
+- 😄 Pronouns:all contact links in bio
+
 
 <!---
 ritik7545/ritik7545 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
